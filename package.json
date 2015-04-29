@@ -1,0 +1,17 @@
+{
+  "name": "reevoo_challenge",
+  "version": "1.0.0",
+  "description": "Reevoo Challenge",
+  "main": "app.js",
+  "dependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
